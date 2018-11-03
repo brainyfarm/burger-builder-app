@@ -6,7 +6,7 @@ import Logo from '../../Logo/Logo';
 const toolbar = () => (
   <header className={classes.Toolbar}>
     <div>MENU</div>
-    <div>{Logo}</div>
+      <Logo />
     <nav>
       ...
     </nav>
